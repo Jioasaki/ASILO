@@ -9,3 +9,12 @@ Welcome to my official portfolio repository, ASILO_PORTFOLIO_WEB this web applic
 <h3> FrontEnd: HTML, CSS, Blade Templates </h3>
 <h3> Database: MySQL </h3>
 <h3> Tools: VS Code, Git, Composer </h3>
+
+
+
+
+
+
+
+
+<h3> Note: im really sorry sir if didn't finish my backend. </h3> 
